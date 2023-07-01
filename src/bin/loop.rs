@@ -4,6 +4,7 @@ fn main() {
         counter += 1;
         println!("This is loop {:?}", counter); 
         if counter == 10 {
+            println!("All loops are done!");
             break;
         }
     }
