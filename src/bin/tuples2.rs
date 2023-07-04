@@ -8,4 +8,4 @@ fn main() {
     println!("Coordinates are: {:?}, {:?}", x, y); 
 
     // if tuple is larger then 3 values, use struct instead
-}
+} 
